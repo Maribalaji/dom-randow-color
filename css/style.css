@@ -7,15 +7,15 @@
     .container{ 
        width:90%;
            margin:auto;
-           display:flex;
-           border: 5px solid rgb(19, 20, 19);
+           
+           
        }
    
        .col{
            text-align: center;
            width: 80%;;
-           height: 50vh;
-           border: 5px solid rgb(86, 84, 84)
+           
+           
        }
        .col label{
            font-size: larger;
@@ -24,31 +24,15 @@
            height:5vh;
        }
        .col h1{
-           padding-top:50px;
-           padding-bottom: 50px;
+           padding-top:10px;
+           padding-bottom: 10px;
        }
-       .col1{
-           text-align: center;
-           width: 80%;
-           height: 50vh;
-           border: 5px solid rgb(103, 101, 101);
-       }
-       .col1 h1{
-           padding-top:50px;
-           padding-bottom: 50px;
-       }
-       .col1 label{
-           font-size: larger;
-           font-family: monospace;
-       }
-       .col1 input{
-           height:5vh;
-       }
+       
        .para{
         width:90%;
         margin: auto;
         text-align: center;
-        padding: 20px;
+        padding: 20px 30px;
         border:3px solid black;
         margin-top: 20px;
        }
